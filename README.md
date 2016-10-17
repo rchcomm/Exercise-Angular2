@@ -1,5 +1,5 @@
-"# Exercise-Angular2" 
+# Exercise-Angular2 
 
-> Start
+> Start lite server
 npm start
 
